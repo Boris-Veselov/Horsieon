@@ -1,1 +1,9 @@
-# Code Refactor Starter Code
+# Horsieon website
+
+## Code refactor
+
+## Updated files:
+* HTML
+* CSS
+
+## Website
